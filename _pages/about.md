@@ -11,13 +11,13 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/rsz_1banana.png){: .align-right style="width: 300px; margin-left: 20px; margin-bottom: 10px;"}
-👨🏻‍💻 I'm a final year graduate student at the MUET Jamshoro.
+👨🏻‍💻 I'm a final year graduate student at MUET Jamshoro.
 
-🔬 My research interests are in bridging vision and language modalities.
+📚 I'm documenting my learning notes and the interesting work in blog posts.
 
-📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
+🔬 My research interests are neural networks and building systems with LLMs.
 
-🤝 I am also interested in assisting others on their path in the world of Machine Learning and academia.
+🤝 I'm always open to collaborating with others on projects and tasks. Feel free to reach out.
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
