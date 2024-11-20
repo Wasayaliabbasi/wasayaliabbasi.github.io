@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/rsz_1banana.png){: .align-right style="width: 150px; margin-left: 20px; margin-bottom: 10px;"}
+![Illustration of combining vision and language modalities](/images/rsz_1banana.png){: .align-right style="width: 300px; margin-left: 20px; margin-bottom: 10px;"}
 👨🏻‍💻 I'm a final year graduate student at the MUET Jamshoro.
 
 🔬 My research interests are in bridging vision and language modalities.
