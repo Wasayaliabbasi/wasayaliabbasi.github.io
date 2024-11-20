@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<div style="background-image: url('/images/rsz_1banana.png'); background-repeat: no-repeat; background-position: center; background-size: cover; width: 100%; height: 300px; margin-top: -10px;"></div>
+![Illustration of combining vision and language modalities](/images/rsz_1banana.png){: .align-right style="width: 150px; margin-left: 20px; margin-bottom: 10px;"}
 👨🏻‍💻 I'm a final year graduate student at the MUET Jamshoro.
 
 🔬 My research interests are in bridging vision and language modalities.
