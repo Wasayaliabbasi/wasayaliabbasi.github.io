@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/rsz_1banana.png){: .align-right style="width: 300px; margin-left: 20px; margin-bottom: 10px;"}
+![Illustration of combining vision and language modalities](/images/choir.jpg){: .align-right style="width: 300px; margin-left: 20px; margin-bottom: 10px;"}
 👨🏻‍💻 I'm a final year graduate student at MUET Jamshoro.
 
 📚 I'm documenting my learning notes and the interesting work in blog posts.

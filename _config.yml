@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "wasay's homepage"
+title                    : "homepage"
 title_separator          : "-"
-name                     : &name "Wasay Ali"
+name                     : &name "Wasay Abbasi"
 description              : &description "personal description"
 url                      : https://wasayaliabbasi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Wasayaliabbasi/wasayaliabbasi"
 author:
   # Biographic information
   avatar           : "wasay.jpeg"
-  name             : "Wasay Ali"
+  name             : "Wasay Abbasi"
   pronouns         : # example: "she/her"  
   bio              : "Machine learning engineer. Broadly curious."
   location         : "Earth"
